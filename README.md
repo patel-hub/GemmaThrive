@@ -1,3 +1,20 @@
+# 🌿 GemmaThrive — Offline AI for Productivity & Mental Wellness
+GemmaThrive is an offline-first desktop app powered by **Gemma 3n** via Ollama. It helps users organize tasks, generate personalized plans, map ideas visually, and reflect through guided journaling — with **zero internet required**.
+
+> 🧠 Built for ADHD, neurodivergent and overwhelmed minds.  
+> 💻 Runs entirely on your device using Flask + React + Electron.
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

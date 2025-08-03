@@ -4,9 +4,23 @@ GemmaThrive is an offline-first desktop app powered by **Gemma 3n** via Ollama. 
 > 🧠 Built for ADHD, neurodivergent and overwhelmed minds.  
 > 💻 Runs entirely on your device using Flask + React + Electron.
 
+<img width="962" height="618" alt="Screenshot 2025-07-28 at 5 48 21 PM" src="https://github.com/user-attachments/assets/0664a9f5-22fb-423d-bd90-77824c8a4389" />
 
+---
+## ⚙️ Requirements
 
+- [Node.js](https://nodejs.org/en/) v16+
+- [Python 3.8+](https://www.python.org/)
+- [Ollama](https://ollama.com/download) (for running Gemma models)
+- `gemma3n:e2b` model (≈5.6 GB)
 
+---
+## 🧪 Verify Ollama & Model
+
+```bash
+ollama list
+
+---
 
 
 

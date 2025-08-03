@@ -11,7 +11,7 @@ GemmaThrive is an offline-first desktop app powered by **Gemma 3n** via Ollama. 
 
 - [Node.js](https://nodejs.org/en/) v16+
 - [Python 3.8+](https://www.python.org/)
-- [Ollama](https://ollama.com/download) (for running Gemma models)
+- [Ollama](https://ollama.com/library/gemma3n) (for running Gemma models)
 - `gemma3n:e2b` model (≈5.6 GB)
 
 ---

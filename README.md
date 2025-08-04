@@ -36,10 +36,32 @@ Unlike traditional boards, this one feels **alive**:
 > 💡 **The Problem It Solves**:  
 Overwhelmed minds often avoid starting. This tab **removes friction** by making task management visual, responsive, and conversational. It’s not just a board — it’s a thinking space that works with you.
 
-#### 🧩 Projects Tab
-- Group related tasks into named projects
-- View all project-specific tasks at a glance
-- Keep personal, work, and creative tasks separated
+---
+
+#### 🧩 Projects Tab - — Where Goals Get Their Own Space
+The **Projects Tab** is designed for people juggling multiple initiatives — like work, personal goals, creative ideas, or long-term plans.
+
+Unlike the main **Tasks Tab**, which manages day-to-day stickies on a unified board, Projects Tab lets you **create fully separate boards for each project**, so you can focus deeply without mental clutter.
+
+---
+
+- ➕ **Manually create projects** and add subtasks at your own pace — or tap into **Gemma’s planning magic**
+- 🧠 **Let Gemma Plan It**: She’ll instantly generate a structured subtask list based on your project title and description
+- 📅 **Auto-assigns due dates**: Gemma gives each subtask a reasonable deadline so your goals stay time-bound and not just “someday”
+- 🗂️ **Dedicated Kanban board for every project**: Drag, edit, and delete subtasks across columns just like in the main board — but scoped to that project alone
+- ✍️ **Interactive sticky notes**: Tap any subtask to edit it or click **“Break This Down with Gemma”** for even more granular starter steps
+- 🧩 **Track autonomy**: Treat each project as its own micro-environment with full control and fewer distractions
+
+---
+
+> 🔄 **Gemma’s Role**:  
+She’s your strategic co-pilot. Not only does she generate subtasks based on your project’s scope — she assigns due dates, estimates effort, and lets you further break down tasks with context. You’re never stuck staring at a blank board again.
+
+<img width="955" height="586" alt="Screenshot 2025-07-28 at 7 05 33 PM" src="https://github.com/user-attachments/assets/f7645402-fed7-4f1e-8854-588c698e4811" />
+
+
+> 💡 **The Problem It Solves**:  
+Big goals often die in general to-do lists. The Projects Tab gives each vision a **home**, and **Gemma turns intentions into timelines**. It’s clarity without chaos — helping you follow through, one board at a time.
 
 #### 📅 Planner Tab
 - See your tasks laid out on a calendar

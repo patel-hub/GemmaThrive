@@ -50,6 +50,7 @@ Unlike the main **Tasks Tab**, which manages day-to-day stickies on a unified bo
 
 > 🔄 **Gemma’s Role**:  
 She’s your strategic co-pilot. Not only does she generate subtasks based on your project’s scope — she assigns due dates, estimates effort, and lets you further break down tasks with context. You’re never stuck staring at a blank board again.
+
 > 💡 **The Problem It Solves**:  
 Big goals often die in general to-do lists. The Projects Tab gives each vision a **home**, and **Gemma turns intentions into timelines**. It’s clarity without chaos — helping you follow through, one board at a time.
 

@@ -28,8 +28,11 @@ Unlike traditional boards, this one feels **alive**:
 - 🎨 **Color-coded by priority**: Tasks are automatically styled based on urgency and importance — helping you focus without overthinking.
 - ✋ **Drag & drop across columns**: Seamlessly move your notes between **To Do**, **In Progress**, **Review**, and **Done**. Each column adapts with smooth animations and modern UI polish.
 - 🌀 **Visual delight meets productivity**: Tilted sticky notes, hover animations, and pin-style effects turn organization into a calming ritual — not a chore.
-- 🧠 **Gemma’s Role**: Gemma doesn’t just suggest — she executes. Tap “Let Gemma Help” and she’ll turn your vague goal into an actionable task list tailored to your energy, time, and focus level.
-- 💡 **The Problem It Solves**:  
+
+> 🔄 **Gemma’s Role**:  
+- Gemma doesn’t just suggest — she executes. Tap “Let Gemma Help” and she’ll turn your vague goal into an actionable task list tailored to your energy, time, and focus level.
+  
+> 💡 **The Problem It Solves**: 
 Overwhelmed minds often avoid starting. This tab **removes friction** by making task management visual, responsive, and conversational. It’s not just a board — it’s a thinking space that works with you.
 
   <img width="1186" height="714" alt="Screenshot 2025-08-03 at 5 58 54 PM" src="https://github.com/user-attachments/assets/a354448f-5d93-4d87-ad86-e0e7e3745501" />
@@ -42,10 +45,15 @@ The **Projects Tab** is designed for people juggling multiple initiatives — li
 Unlike the main **Tasks Tab**, which manages day-to-day stickies on a unified board, Projects Tab lets you **create fully separate boards for each project**, so you can focus deeply without mental clutter.
 
 - ➕ **Manually create projects** and add subtasks at your own pace — or tap into **Gemma’s planning magic**
+  
 - 🧠 **Let Gemma Plan It**: She’ll instantly generate a structured subtask list based on your project title and description
+  
 - 📅 **Auto-assigns due dates**: Gemma gives each subtask a reasonable deadline so your goals stay time-bound and not just “someday”
+  
 - 🗂️ **Dedicated Kanban board for every project**: Drag, edit, and delete subtasks across columns just like in the main board — but scoped to that project alone
+  
 - ✍️ **Interactive sticky notes**: Tap any subtask to edit it or click **“Break This Down with Gemma”** for even more granular starter steps
+  
 - 🧩 **Track autonomy**: Treat each project as its own micro-environment with full control and fewer distractions
 
 > 🔄 **Gemma’s Role**:  

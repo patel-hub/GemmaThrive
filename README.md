@@ -21,8 +21,10 @@ It helps users organize tasks, generate personalized plans, map ideas visually, 
 
 ```bash
 ollama list
+```
 
 ---
+
 ## **🛠️ Project Setup & Local Installation**
 
 ### 1. Clone & Navigate
@@ -30,24 +32,37 @@ ollama list
 ```bash
 git clone https://github.com/yourusername/GemmaThrive.git
 cd GemmaThrive
+```
 
 ### 2. Start the Backend
+```bash
 cd gemma_server
 pip install -r requirements.txt
 python app.py
+```
 
 > This launches the Flask server locally and interacts with your local Gemma 3n model via Ollama
 
+---
+
 ### 3. Start the Frontend
-In a new terminal window:
+
+In a **new terminal window**:
+
+```bash
 cd GemmaThrive
 npm install
 npm run dev
+```
 
 > This launches the React + Vite app at: http://localhost:5173
 
+---
+
 4. (Optional) Run as Desktop App with Electron
-npm run electron 
+```bash
+npm run electron
+```
 
 > This wraps your React + Vite UI into a local desktop window using Electron.
 

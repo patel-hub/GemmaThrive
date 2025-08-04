@@ -170,7 +170,7 @@ ollama list
 ### 1. Clone & Navigate
 
 ```bash
-git clone https://github.com/yourusername/GemmaThrive.git
+git clone https://github.com/patel-hub/GemmaThrive.git
 cd GemmaThrive
 ```
 

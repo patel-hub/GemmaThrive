@@ -23,7 +23,7 @@ It helps users organize tasks, generate personalized plans, map ideas visually, 
 ollama list
 
 ---
-## 🚀 Setup Instructions
+## **🛠️ Project Setup & Local Installation**
 
 ### 1. Clone & Navigate
 

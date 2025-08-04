@@ -103,7 +103,7 @@ The **MindMap Tab** helps you map out ideas, goals, or problems into a clean, tr
 Whether you're brainstorming a passion project, planning a networking strategy, or untangling a messy thought, this tool helps you organize the mess in your mind.
 
 - 💡 **Enter any idea or prompt** and instantly see it bloom into a visual mind map
-- 
+  
 - 🌳 **Gemma organizes your thoughts** into:
   - Sections like subtopics, questions, ideas, or action plans
   - Clear top-down or radial layouts (your choice!)

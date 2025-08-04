@@ -25,12 +25,15 @@ The **Tasks Tab** is your intelligent, interactive Kanban board — redesigned f
 Unlike traditional boards, this one feels **alive**:
 
 - 🧠 **Sticky notes that talk back**: Each task is AI-enabled — tap a card and let **Gemma** suggest the best way to start, break it down into smaller steps, or even reframe your procrastination into action.
+  
 - 🎨 **Color-coded by priority**: Tasks are automatically styled based on urgency and importance — helping you focus without overthinking.
+  
 - ✋ **Drag & drop across columns**: Seamlessly move your notes between **To Do**, **In Progress**, **Review**, and **Done**. Each column adapts with smooth animations and modern UI polish.
+  
 - 🌀 **Visual delight meets productivity**: Tilted sticky notes, hover animations, and pin-style effects turn organization into a calming ritual — not a chore.
 
 > 🔄 **Gemma’s Role**:  
-- Gemma doesn’t just suggest — she executes. Tap “Let Gemma Help” and she’ll turn your vague goal into an actionable task list tailored to your energy, time, and focus level.
+Gemma doesn’t just suggest — she executes. Tap “Let Gemma Help” and she’ll turn your vague goal into an actionable task list tailored to your energy, time, and focus level.
   
 > 💡 **The Problem It Solves**: 
 Overwhelmed minds often avoid starting. This tab **removes friction** by making task management visual, responsive, and conversational. It’s not just a board — it’s a thinking space that works with you.
@@ -66,10 +69,28 @@ Big goals often die in general to-do lists. The Projects Tab gives each vision a
 
 ---
 
-#### 📅 Planner Tab
-- See your tasks laid out on a calendar
-- Tap **“Let Gemma Plan My Day”** for a complete daily schedule
-- AI suggests a time-sensitive action plan + wellness reminders
+#### 📅 Planner Tab — Your Day, Designed by Gemma
+
+The **Planner Tab** turns your tasks into a visual timeline — so instead of juggling sticky notes and mental to-do lists, you see a clear structure for your day.
+
+- 📆 **Calendar View**: All your tasks (from Tasks Tab and Projects Tab) appear neatly on a calendar, so you can plan visually and intuitively.
+- ✨ **“Let Gemma Plan My Day”** button: Tap once, and Gemma will:
+  - Pick the most relevant tasks for today
+  - Prioritize based on urgency and due dates
+  - Break them into time blocks
+  - Insert wellness reminders and breathing space
+- 🔁 **Offline + Dynamic**: No internet needed — Gemma generates your daily plan locally using your actual task data and due dates
+- ✅ **Checklist + Timeline**: Alongside your calendar, you’ll get a step-by-step breakdown of your day’s flow so you always know what to do next
+- 🌱 **Includes balance**: Gemma’s plan isn’t just about productivity — it includes wellness suggestions. 
+
+> 🔄 **Gemma’s Role**:  
+Gemma becomes your **daily planner**, **wellness coach**, and **task prioritizer** — all in one. She reduces decision fatigue, adapts to your workload, and reminds you to be human, not just productive.
+
+> 💡 **The Problem It Solves**:  
+Most planners expect *you* to figure it out. This tab removes the guesswork by letting **Gemma structure your day** in a way that’s achievable, healthy, and motivating — so you can stop stressing and start doing.
+
+<img width="1179" height="714" alt="Screenshot 2025-08-03 at 6 30 52 PM" src="https://github.com/user-attachments/assets/cb7ed786-d5b7-4629-8bb7-e75f84ab983c" />
+
 
 #### 🧠 MindMap Tab
 - Convert any idea into a **visual mind map**
